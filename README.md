@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" />, Hi 👋, I’m Oluwatobi</h1>
+<h1 align="left">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" />, I’m Oluwatobi</h1>
 
 I’m a MERN Stack & React Native Developer with a strong focus on building fast, scalable, and user-friendly web and mobile applications. I enjoy turning ideas into production-ready products, integrating AI into modern software, and continuously improving performance, UX, and developer experience.
 
