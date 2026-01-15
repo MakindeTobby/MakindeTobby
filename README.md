@@ -105,7 +105,7 @@ I’m a MERN Stack & React Native Developer with a strong focus on building fast
 
 ### 📊 GitHub Stats
 
-![Promise's GitHub stats](https://github-readme-stats.vercel.app/api?username=MakindeTobby&show_icons=true&theme=radical)
+![Oluwatobi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MakindeTobby&show_icons=true&theme=radical)
 
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MakindeTobby&theme=radical" />
 
