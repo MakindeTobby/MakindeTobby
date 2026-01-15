@@ -68,7 +68,7 @@ I’m a MERN Stack & React Native Developer with a strong focus on building fast
       <sub><b>Git</b></sub>
     </td>
     <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" /><br/>
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" height="40" alt="GitHub" /><br/>
       <sub><b>GitHub</b></sub>
     </td>
     <td align="center" width="80">
@@ -76,7 +76,7 @@ I’m a MERN Stack & React Native Developer with a strong focus on building fast
       <sub><b>Redux</b></sub>
     </td>
 <td align="center" width="80">
-  <img src="[https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/favicon.ico](https://avatars.githubusercontent.com/u/124599?v=4)" width="40" height="40" alt="ShadCN UI" /><br/>
+  <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/favicon.ico" width="40" height="40" alt="ShadCN UI" /><br/>
   <sub><b>ShadCN UI</b></sub>
 </td>
     
